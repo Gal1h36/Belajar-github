@@ -1,2 +1,2 @@
 # Belajar-github
-ini repositori
+ini repository
